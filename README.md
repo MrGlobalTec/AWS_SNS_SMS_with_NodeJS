@@ -3,6 +3,7 @@
 A quick example of sending an SMS with AWS SNS and NodeJS
 
 Download this repository
+https://github.com/MrGlobalTec/AWS_SNS_SMS_with_NodeJS.git
 
 `$ cd AWS_SNS_SMS_with_NodeJS`
 `$ npm i`
