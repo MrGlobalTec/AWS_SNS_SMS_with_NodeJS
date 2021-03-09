@@ -17,7 +17,6 @@ You want to send a message to a number,
 The country code is +44
 The mobile number is (0)7700 900123
 The E.164 format would be +447700900123
-Then Visit
 
 Example.
 Send Text Message:
